@@ -7,4 +7,3 @@ Github Repos' Explorer.
 - Axios
 - StyledComponents
 - Polished
-- Axios
