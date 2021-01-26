@@ -1,2 +1,10 @@
 # github-explorer
-Github Explorer by Rocketseat Bootcamp.
+Github Repos' Explorer.
+
+# Techs
+- ReactJS
+- Typescript
+- Axios
+- StyledComponents
+- Polished
+- Axios
