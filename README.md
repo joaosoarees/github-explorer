@@ -1,5 +1,5 @@
 # github-explorer
-Github Repos' Explorer.
+Github's repository Explorer.
 
 # Techs
 - ReactJS
